@@ -1,6 +1,7 @@
 # ❤️‍🔥 행복한 6조 ❤️‍🔥
-
-![조직이미지](https://github.com/user-attachments/assets/dd05badf-d6cb-4d30-9cb0-4f492b32c292)
+<div align="center">
+  <img src = "https://github.com/user-attachments/assets/dd05badf-d6cb-4d30-9cb0-4f492b32c292" width="700" height="700">
+</div>
 
 ## Member
 <div align="center">
